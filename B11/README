@@ -7,18 +7,24 @@
 資工四B 410616116 張馨元
 資工四B 410616336 廖詩涵
 
-指導老師:
+指導老師姓名:
 羅峻旗 教授
 
-專題報告書電子檔:
+成果報告書:
 專題成果報告書_透過樂音生成樂譜之研究.pdf
 
 程式電子檔:
 1. 音階辨識軟體:
-cclo\Piano_10.05\dist\Piano_10.04.jar
+Piano_10.04.jar
 
 2. 鋼琴模擬器:
-cclo\Piano_Gradle\Piano_Gradle\src\main\java\out\VirtualPiano.jar
+VirtualPiano.jar
+
+簡報:
+專題簡報_透過樂音生成樂譜之研究.pptx
+
+海報:
+專題海報_透過樂音生成樂譜之研究.pdf
 
 專題介紹影片網址:
 https://youtu.be/ZNKUtgS5krA
