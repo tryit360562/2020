@@ -1,0 +1,24 @@
+專題名稱:
+透過樂音生成樂譜之研究
+
+組員:
+資工四A 410616077 施怡安
+資工四A 410616302 繆芯珮
+資工四B 410616116 張馨元
+資工四B 410616336 廖詩涵
+
+指導老師:
+羅峻旗 教授
+
+專題報告書電子檔:
+專題成果報告書_透過樂音生成樂譜之研究.pdf
+
+程式電子檔:
+1. 音階辨識軟體:
+cclo\Piano_10.05\dist\Piano_10.04.jar
+
+2. 鋼琴模擬器:
+cclo\Piano_Gradle\Piano_Gradle\src\main\java\out\VirtualPiano.jar
+
+專題介紹影片網址:
+https://youtu.be/ZNKUtgS5krA
