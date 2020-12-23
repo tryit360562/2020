@@ -4,4 +4,4 @@
 - 成果報告書:後端框架設計與微服務實作.docx
 - 程式:portal-frameworkv2.zip
 - 簡報:https://hackmd.io/@YukinaMochizuki/r1DARMWpw#/
-- 海報:.pdf
+- 海報:poster.pdf
