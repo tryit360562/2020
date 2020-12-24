@@ -8,3 +8,8 @@
  F.簡報：物聯網之停車場應用
  G.海報：物聯網之停車場應用
  H.介紹影片：https://youtu.be/bKRluF_MtQM
+ 
+ 
+使用介紹 : USBeaconSample2.zip 裡面有一個Android Studio的專案資料夾跟專題的APK
+          資料夾用Android Studio開啟即可 APK可自行安裝至手機上
+          架設好USBeacon開啟APP及藍芽可開始判斷資料
