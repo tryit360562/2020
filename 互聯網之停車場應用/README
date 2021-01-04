@@ -1,10 +1,15 @@
- A.專題名稱：互聯網之停車場應用
+ A.專題名稱：物聯網之停車場應用
  B.組員:資工四B 410603692 吳宏崴 
         資工四B 410637146 陳俊名
         資工四B 410637081 卓迦元
  C.指導老師姓名：劉建興
- D.成果報告書：互聯網之停車場應用
+ D.成果報告書：物聯網之停車場應用
  E.程式：USBeaconSample2
  F.簡報：物聯網之停車場應用
  G.海報：物聯網之停車場應用
- H.介紹影片：輸入3~5 分鐘專題介紹影片的 YouTube link 網址
+ H.介紹影片：https://youtu.be/bKRluF_MtQM
+ 
+ 
+使用介紹 : USBeaconSample2.zip 裡面有一個Android Studio的專案資料夾跟專題的APK
+          資料夾用Android Studio開啟即可 APK可自行安裝至手機上
+          架設好USBeacon開啟APP及藍芽可開始判斷資料
